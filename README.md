@@ -1,4 +1,4 @@
-# Lab-1---1Q2
+# Lab-1-1Q2
 new.1
 public class Lab1Q2 { 
 	public static void main(String[] args) {
